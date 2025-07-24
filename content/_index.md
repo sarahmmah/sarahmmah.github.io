@@ -23,8 +23,8 @@ sections:
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
-          filename: aerial.svg
+          # Add your image background to `assets/media/`. just put in aerial.svg or whatever
+          filename: 
           filters:
             brightness: 1.0
           size: cover
