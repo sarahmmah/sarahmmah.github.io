@@ -1,7 +1,7 @@
 ---
-title: People
+title: Projects
 cms_exclude: true
-#url: talk
+#url: #projects
 
 # View
 view: card
