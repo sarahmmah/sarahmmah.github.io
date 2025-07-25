@@ -129,7 +129,7 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Music
+      - name: music
         description: ''
         percent: 80
         icon: piano
