@@ -43,15 +43,15 @@ sections:
       columns: '1'
   - block: collection
     id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  #  content:
+  #    title: Featured Publications
+  #    filters:
+  #      folders:
+  #        - publication
+  #      featured_only: true
+  #  design:
+  #    view: article-grid
+  #    columns: 2
   - block: collection
     content:
       title: Recent Publications
@@ -63,7 +63,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: project
     content:
       title: Projects
       filters:
@@ -81,7 +81,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
         author: ""
@@ -101,13 +101,5 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: cta-card
-    demo: false # Only display this section in the Hugo Blox Builder demo site
-    content:
-      title: Build your own academic website like this
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+
 ---
