@@ -39,10 +39,10 @@ sections:
        
        I'm currently refining methods to track residential histories, aiming to assess how residential mobility and long-term environmental exposures shape health across the life course. I've led collaborative studies in Canada on community belonging and population health, and in Switzerland, where I investigated the effects of residential instability and household crowding on premature mortality. My focus on neighborhoods began with my doctoral research, which linked walkability to physical activity, hospitalization, and mortality outcomes in Canada, the UK, and Australia.
 
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
+  #  design:
+  #    columns: '1'
+  #- block: collection
+  #  id: papers
   #  content:
   #    title: Featured Publications
   #    filters:
