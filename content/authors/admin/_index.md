@@ -62,7 +62,7 @@ education:
       
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://www.proquest.com/docview/2652596392?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses'
   - area: MSc Epidemiology
     institution: McGill University
     date_start: 2013
