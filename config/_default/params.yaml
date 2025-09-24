@@ -7,10 +7,13 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
+  theme_night: 
   font: native
   font_size: L
-  color: purple
+
+  design:
+    primary: "#00693E"    # UVM green example
+    secondary: "#FFD100"  # accent color
 
 # SEO
 
