@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Sarah M Mah
-        Research Group
+        Research Group for Health Geography
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        Welcome to the website for Sarah M Mah's research group at the University of Vermont!
+        We are a health geography research group at the University of Vermont. Our work integrates geospatial data, population health data, and epidemiologic approaches to investigate how neighborhoods, social and built environments influence health outcomes.
   
   - block: collection
     content:
