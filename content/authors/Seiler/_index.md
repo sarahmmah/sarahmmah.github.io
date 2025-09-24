@@ -31,15 +31,9 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BA in Health and Society
+      institution: UVM
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,10 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Undergraduate Researchers
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Olivia is an undergraduate Health and Society student with Statistics and Chemistry minors at UVM, born and raised in Denver, Colorado. She is interested in human and population health, infectious diseases, environmental justice, statistics, and public policy, especially federal food policy, which led her to the public health path. After graduate school, she hopes to join a public health agency to address threats to the health of communities, especially food access and the increasing threat of climate change. Outside of school, she enjoys spending time with her friends, reading, cooking, hiking, watching IndyCar, and performing and competing with the UVM Celtic Cats. She also spent a semester abroad in Auckland, New Zealand and loves traveling when she gets the chance.
