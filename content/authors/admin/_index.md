@@ -1,29 +1,32 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sarah M Mah
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Sarah
+last_name: Mah
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Vermont
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a health geographer specializing in the use of linked geospatial, survey, and administrative data to examine how neighborhood environments influence health and well-being.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Health Geography
+  - Residential mobility
+  - Social Determinants of Health
+  - Chronic Disease
+  - Neighborhood Exposures
+  - Built environments
 
 education:
   courses:
@@ -69,9 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigator
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a health geographer specializing in the use of linked geospatial, survey, and administrative data to examine how neighborhood environments influence health and well-being. My research employs geospatial and epidemiological approaches to explore the relationship between social connections, neighborhood contexts, and longitudinal health outcomes, with the goal of informing actionable health interventions and policy decisions.
