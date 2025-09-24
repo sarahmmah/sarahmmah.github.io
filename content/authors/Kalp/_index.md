@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Coming soon!
+bio: I am a junior studying Public Health in CNHS. I am currently working with the Vermont Child Health Improvement Program's DULCE team. I am investigating the role of DULCE programs in improving patient outcomes at different sites across VT.
 
 interests:
   - Child and maternal health
@@ -55,4 +55,4 @@ user_groups:
   
 ---
 
-Coming soon!
+My name is Chloe Kalp and I am a junior studying Public Health in CNHS. I am currently working with the Vermont Child Health Improvement Program's DULCE team. I am investigating the role of DULCE programs in improving patient outcomes at different sites across VT.
