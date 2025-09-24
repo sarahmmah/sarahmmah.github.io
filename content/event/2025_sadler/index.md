@@ -1,5 +1,5 @@
 ---
-title: Dr. Richard Sadler - October 11th, 2025
+title: Dr. Richard Sadler - Tuesday, November 11th, 2025
 
 event: Seminar at UVM
 event_url: https://example.org
