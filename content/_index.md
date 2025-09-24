@@ -57,7 +57,7 @@ sections:
     content:
       title: Latest Preprints
       text: ""
-      count: 5
+      count: 3
       filters:
         folders:
           - publication
