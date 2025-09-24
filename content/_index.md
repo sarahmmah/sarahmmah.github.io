@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        We are a health geography research group at the University of Vermont. Our work integrates geospatial data, population health data, and epidemiologic approaches to investigate how neighborhoods, social and built environments influence health outcomes.
+       I lead a health geography research group at the University of Vermont. Our work integrates geospatial data, population health data, and epidemiologic approaches to investigate how neighborhoods, social and built environments influence health outcomes.
   
   - block: collection
     content:
