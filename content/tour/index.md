@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Lab meetings every two weeks ☕️
+        content: 'Contact us if you are interested in learning or presenting.'
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: An interdisciplinary research group
+        content: 'Always open for collaborations!'
         align: right
         background:
           image:
@@ -41,7 +41,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: Contact Us
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
