@@ -5,8 +5,6 @@ image:
   focal_point: 'top'
 ---
 
-Sarah is lead author on "Retrospective population-based study of 132 000 Canadians on the relationship between community belonging and diabetes incidence", published in BMJ Public Health with Dr. Laura Rosella of the Population Health Analytics Laboratory in Toronto, Canada.
-
 Read it here: [BMJ Public Health][bmj]
 
 [bmj]: https://bmjpublichealth.bmj.com/content/3/2/e001560 "Community belonging and Diabetes"
@@ -14,5 +12,5 @@ Read it here: [BMJ Public Health][bmj]
 
 <!--more-->
 
-
+Sarah is lead author on "Retrospective population-based study of 132,000 Canadians on the relationship between community belonging and diabetes incidence", published in BMJ Public Health with Dr. Laura Rosella of the Population Health Analytics Laboratory in Toronto, Canada.
 
