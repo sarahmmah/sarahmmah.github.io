@@ -30,15 +30,18 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Postdoctoral fellowship
+      institution: University of Toronto (Dalla Lana School of Public Health)
+      year: 2024
+    - course: PhD in Geography
+      institution: McGill University
+      year: 2021
+    - course: MSc in Epidemiology
+      institution: McGill University
+      year: 2016
+    - course: BSc Hon. in Biology - Genetics
+      institution: University of British Columbia
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
