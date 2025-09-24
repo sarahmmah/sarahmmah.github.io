@@ -18,11 +18,11 @@ role: Honors Thesis Student
 
 # Organizations/Affiliations
 organizations:
-  - name: UVM
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a junior studying Public Health in CNHS. I am currently working with the Vermont Child Health Improvement Program's DULCE team. I am investigating the role of DULCE programs in improving patient outcomes at different sites across VT.
+bio: ''
 
 interests:
   - Child and maternal health

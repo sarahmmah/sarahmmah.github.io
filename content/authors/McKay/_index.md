@@ -18,11 +18,11 @@ role: Honors Thesis Student
 
 # Organizations/Affiliations
 organizations:
-  - name: UVM
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Coming soon!
+bio: ''
 
 interests:
   - Housing and health

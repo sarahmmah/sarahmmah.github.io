@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Chandler Abernathy is a Junior at the University of Vermont majoring in Health and Society on the pre-med track. In partnership with fellow undergraduate research assistants and Professor Sarah Mah, she is exploring connections between health data gathered in the Vermont Health Care Uniform Reporting and Evaluation System and possible environmental factors affecting areas of Vermont. She is inspired by how analysis of large data sets can lead investigators to an understanding of how people can live healthy lives, something she hopes to continue doing in her career. 
+bio: ''
 
 interests:
   - Administrative health data
@@ -30,7 +30,7 @@ interests:
 education:
   courses:
     - course: BA Health and Society
-      institution: UVM
+      institution: ''
       year: 2027 (expected)
 
 # Social/Academic Networking

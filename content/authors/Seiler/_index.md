@@ -14,15 +14,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate research student
+role: Undergraduate Research Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Vermont
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ''
 
 interests:
   - Public health

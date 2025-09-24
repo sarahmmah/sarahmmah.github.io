@@ -18,11 +18,11 @@ role: Undergraduate Research Student
 
 # Organizations/Affiliations
 organizations:
-  - name: UVM
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on studying the different factors affecting ambulance response and transport times in rural areas of Vermont.
+bio: ''
 
 interests:
   - Emergency Services Research
