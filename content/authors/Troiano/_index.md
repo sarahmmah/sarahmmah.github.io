@@ -18,11 +18,11 @@ role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: UVM
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a geography and health & society double major. I'm currently working on a collaberation between the University of Vermont and the University of Southern Maine to map gaps in access to healthcare and internet across the United States.
+bio: ''
 
 interests:
   - Health care
