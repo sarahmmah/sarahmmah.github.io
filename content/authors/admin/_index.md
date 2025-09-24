@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
   - name: University of Vermont
-    url: ''
+    url: 'https://www.uvm.edu/cas/geography/profile/sarah-m-mah'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a health geographer specializing in the use of linked geospatial, survey, and administrative data to examine how neighborhood environments influence health and well-being.
