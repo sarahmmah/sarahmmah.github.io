@@ -2,11 +2,11 @@
 title: "Robust Indicators of Residential Mobility Derived From Longitudinal Canadian Data to Examine Population Health Across the Life Course"
 authors:
   - admin
-  - Eva Buajitti
+  - Emmalin Buajitti
   - Lief Pagalan
-  - Lauren M. Diemert
+  - Lori M. Diemert
   - Michael Tjepkema
-  - Thanasis Christidis
+  - Tanya Christidis
   - Sabrina Chiodo
   - Arjumand Siddiqi
   - Jeffrey R. Brook
