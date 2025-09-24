@@ -8,7 +8,7 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: |-
+      text: 
         I welcome inquiries from students, collaborators, and community partners interested health, neighborhoods, and population research. You can reach me by filling out this form or by email.
       email: sarah.mah@uvm.edu
       phone: 
