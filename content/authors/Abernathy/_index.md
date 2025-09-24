@@ -18,7 +18,7 @@ role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: UVM
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
