@@ -55,7 +55,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=m-cYa9kAAAAJ&hl=en
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.linkedin.com/in/sarahmmah/
   - icon: orcid
     icon_pack: ai

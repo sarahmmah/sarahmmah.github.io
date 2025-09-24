@@ -13,7 +13,7 @@ sections:
       email: sarah.mah@uvm.edu
       phone: 
       address:
-        street: 95 University Place
+        street: 94 University Place
         city: Burlington
         region: VT
         postcode: '05405'
