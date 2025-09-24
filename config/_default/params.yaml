@@ -9,8 +9,9 @@ appearance:
   theme_day: minimal
   theme_night: 
   font: native
-  font_size: L
+  font_size: M
 
+params:
   design:
     primary: "#00693E"    # UVM green example
     secondary: "#FFD100"  # accent color
