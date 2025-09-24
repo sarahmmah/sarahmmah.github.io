@@ -1,5 +1,5 @@
 ---
-title: Dr. Richard Sadler at UVM - October 11th, 2025
+title: Dr. Richard Sadler - October 11th, 2025
 
 event: Seminar at UVM
 event_url: https://example.org
@@ -17,8 +17,8 @@ abstract: Coming Soon!
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-10-11T10:00:00Z'
+#date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
