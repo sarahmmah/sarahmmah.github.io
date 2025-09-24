@@ -6,10 +6,10 @@ authors:
   - Mindy Lu
   - Laura C. Rosella
 author_notes: []
-date: "2025-02-01T00:00:00Z"        # use the article’s online pub date if different
+date: "2025-02-13T00:00:00Z"        # use the article’s online pub date if different
 doi: ""                              # add when available, e.g., "10.xxxx/xxxxx"
 
-publishDate: "2025-09-05T00:00:00Z"  # when you want the post to appear on your site
+publishDate: "2025-02-13T00:00:00Z"  # when you want the post to appear on your site
 
 publication_types: ["article-journal"]
 
@@ -27,13 +27,13 @@ tags:
 featured: false
 
 # Useful links
-url_pdf: "https://bmjpublichealth.bmj.com/content/3/2/e001560"
+url_pdf: "https://bmjpublichealth.bmj.com/content/bmjph/3/2/e001560.full.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://bmjpublichealth.bmj.com/content/3/2/e001560"
 url_video: ""
 
 image:
