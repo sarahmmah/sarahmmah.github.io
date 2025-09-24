@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-    - course: Postdoctoral fellowship
+    - course: Postdoctoral Fellowship
       institution: University of Toronto (Dalla Lana School of Public Health)
       year: 2024
     - course: PhD in Geography
