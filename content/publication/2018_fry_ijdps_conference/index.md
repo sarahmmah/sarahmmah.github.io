@@ -30,7 +30,7 @@ tags: []
 featured: true
 
 # Links
-url_pdf: 'https://ijpds.org/article/view/523/935'
+url_pdf: 'https://ijpds.org/article/view/523/447'
 url_source: 'https://ijpds.org/article/view/523'
 
 # Featured image
