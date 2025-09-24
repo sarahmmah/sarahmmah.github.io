@@ -14,9 +14,9 @@ authors:
   - Laura C. Rosella
 author_notes: []
 date: "2025-04-01T00:00:00Z"
-doi: ""   # add when available
+doi: "https://doi.org/10.1007/s11205-025-03521-0"   # add when available
 
-publishDate: "2025-09-05T00:00:00Z"
+publishDate: "2025-02-13T00:00:00Z"
 
 publication_types: ["article-journal"]
 
