@@ -50,13 +50,15 @@ social:
     link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/sarahmmah
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: brands/linkedin
+    link: https://scholar.google.com/citations?user=m-cYa9kAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fas
     link: https://www.linkedin.com/in/sarahmmah/
-  - icon: academicons/orcid
+  - icon: orcid
+    icon_pack: ai
     link: https://orcid.org/0000-0002-1533-1203
 
 
