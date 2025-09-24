@@ -34,13 +34,13 @@ tags:
 featured: false
 
 # Links (add when available)
-url_pdf: ""
+url_pdf: "https://link.springer.com/content/pdf/10.1007/s11205-025-03521-0.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://link.springer.com/article/10.1007/s11205-025-03521-0"
 url_video: ""
 
 image:
