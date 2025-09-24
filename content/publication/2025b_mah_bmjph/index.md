@@ -3,7 +3,7 @@ title: "Retrospective population-based study of 132,000 Canadians on the relatio
 authors:
   - admin            # Sarah M. Mah (your site owner profile)
   - Matthew Hurst
-  - Man Lu
+  - Mindy Lu
   - Laura C. Rosella
 author_notes: []
 date: "2025-02-01T00:00:00Z"        # use the article’s online pub date if different
