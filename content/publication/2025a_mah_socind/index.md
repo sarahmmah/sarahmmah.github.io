@@ -3,7 +3,7 @@ title: "Robust Indicators of Residential Mobility Derived From Longitudinal Cana
 authors:
   - admin
   - Eva Buajitti
-  - Lillian Pagalan
+  - Lief Pagalan
   - Lauren M. Diemert
   - Michael Tjepkema
   - Thanasis Christidis
