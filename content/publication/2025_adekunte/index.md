@@ -7,7 +7,7 @@ authors:
   - Ghazal Fazli
   - Calvin Ke
   - Lorraine L. Lipscombe
-  - Sarah M. Mah
+  - admin
   - Laura C. Rosella
   - Walter P. Wodchis
   - Baiju R. Shah
