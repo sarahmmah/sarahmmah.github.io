@@ -55,13 +55,13 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Articles
       text: ""
       count: 3
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: 'article-journal'
     design:
       view: citation
       columns: '1'
