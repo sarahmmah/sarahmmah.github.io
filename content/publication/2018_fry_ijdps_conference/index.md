@@ -16,7 +16,7 @@ publishDate: '2018-06-12T00:00:00Z'
 
 # Publication type.
 # CSL standard: article-journal
-publication_types: ['article-journal']
+publication_types: ['abstract']
 
 # Publication name and optional abbreviated publication name.
 publication: '*International Journal of Population Data Science, 3*(2)'
