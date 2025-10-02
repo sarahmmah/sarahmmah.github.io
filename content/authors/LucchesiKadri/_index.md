@@ -26,6 +26,9 @@ bio: ''
 
 interests:
   - Housing and health
+  - Critical geography
+  - Sustainability
+  - Built environments
 
 education:
   courses:
@@ -55,4 +58,4 @@ user_groups:
   
 ---
 
-Coming soon!
+Renata is a double major in Geography and Environmental Studies at the University of Vermont. Currently, she is working as a research assistant for Dr. Sarah Mah in a project focusing on how congressional district boundaries affect health, especially for the Middle Eastern and North African population in the Detroit Metropolitan Area.  Overall, she is interested in how power is realized through human transformations of space and how this affects people's health
