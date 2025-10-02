@@ -19,7 +19,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Epidemiology & Community Health, 78*(4): 205–211"
 publication_short: "J Epidemiol Community Health"
 
-summary: "Community belonging influences premature mortality differently across life stages, highlighting its role as a population health determinant."
+abstract_short: "Community belonging influences premature mortality differently across life stages, highlighting its role as a population health determinant."
 
 tags:
   - Community belonging
