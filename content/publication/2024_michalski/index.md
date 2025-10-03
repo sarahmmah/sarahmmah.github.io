@@ -19,7 +19,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Epidemiology & Community Health, 78*(4): 205–211"
 publication_short: "J Epidemiol Community Health"
 
-abstract: <small>"Using a nationally representative cohort, this study estimates the life stage-specific impact of community belonging on premature mortality. The results demonstrate how community belonging relates to premature mortality differs across age groups underscoring the importance of considering life stage-specific perspectives when researching and developing approaches to strengthen belonging. *(To read more, please visit the links above.)*" </small>
+abstract: <medium>"Using a nationally representative cohort, this study estimates the life stage-specific impact of community belonging on premature mortality. The results demonstrate how community belonging relates to premature mortality differs across age groups underscoring the importance of considering life stage-specific perspectives when researching and developing approaches to strengthen belonging. *(To read more, please visit the links above.)*" </medium>
 
 tags:
   - Community belonging
