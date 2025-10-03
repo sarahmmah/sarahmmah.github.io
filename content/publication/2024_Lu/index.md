@@ -15,7 +15,7 @@ publication_types: ["article-journal"]
 publication: "*Scientific Reports, 14*(1): 21142"
 publication_short: "Sci Rep"
 
-abstract: "A sense of belonging to a community is a dimension of subjective well-being that is of growing population health interest. This cohort study linked Canadian Community Health Survey data (2000–2014) with hospital records for 456,415 adults to evaluate associations between community belonging and avoidable hospitalizations. Results showed that very weak and very strong sense of belonging were both associated with higher risk of hospitalization for ambulatory care sensitive conditions among women, but not men. Findings highlight the complex role of community belonging in population health outcomes."
+abstract: "This cohort study linked Canadian Community Health Survey data (2000–2014) with hospital records for 456,415 adults to evaluate associations between community belonging and avoidable hospitalizations. Results showed that very weak and very strong sense of belonging were both associated with higher risk of hospitalization for ambulatory care sensitive conditions among women, but not men.  *(To read more, please visit the links above.)*"
 summary: "Among Canadian women, both very weak and very strong sense of community belonging were linked to greater risk of avoidable hospitalization, underscoring the nuanced relationship between belonging and health."
 
 tags:

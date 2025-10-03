@@ -22,8 +22,8 @@ publication_types: ["article-journal"]
 publication: "*Primary Care Diabetes, 19*(3): 296–301"
 publication_short: "Prim Care Diabetes"
 
-abstract: "Immigrants in western countries face a higher risk of developing diabetes and tend to receive lower quality of diabetes care. Using population-based healthcare administrative data from Ontario, this study compared quality indicators for diabetes care between immigrants and non-immigrants overall and within dimensions of marginalization. Results show that immigrants were less likely to achieve process and outcome quality measures, even within similar levels of marginalization, highlighting the intersecting impact of immigration and social determinants of health. However, disparities were modest, and overall achievement of quality indicators was low across all groups."
-summary: "Immigrants in Ontario received lower quality of diabetes care than non-immigrants, even within similar levels of marginalization, pointing to the intersecting role of immigration and social determinants of health."
+abstract: "Using population-based healthcare administrative data linked to immigration and neighbourhood census data, we conducted a retrospective cohort study of all people aged ≥ 40 years with diabetes in Ontario, Canada on 1 April 2019. ...[Findings suggest] that the gap in quality of care between immigrants and non-immigrants is not simply due to differences in these social determinants of health, and highlights the intersecting impact of immigration and marginalization. *(To read more, please visit the links above.)*"
+summary: "Using population-based healthcare administrative data linked to immigration and neighbourhood census data, we conducted a retrospective cohort study of all people aged ≥ 40 years with diabetes in Ontario, Canada on 1 April 2019."
 
 tags:
   - Diabetes care

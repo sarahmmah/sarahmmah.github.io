@@ -23,7 +23,7 @@ publication_types: ["article-journal"]
 publication: "*Social Indicators Research, 177*(3): 937–957"
 publication_short: "Soc Indic Res"
 
-abstract: ""
+abstract: "Where we live, how often we move, and where we move to have direct impacts on health and well-being. However, there is still a need for comprehensive data and robust approaches to assess long-term residential mobility and population-wide health. Our study demonstrates that longitudinal linked tax and survey data can be used to produce reliable population-wide measures of residential mobility. *(To read more, please visit the links above.)*"
 summary: "Introduces and validates robust indicators of residential mobility from longitudinal Canadian data to study population health across the life course."
 
 tags:
