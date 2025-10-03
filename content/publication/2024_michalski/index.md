@@ -1,5 +1,5 @@
 ---
-title: <large>"A National Cohort Study of Community Belonging and Its Influence on Premature Mortality"</large>
+title: "A National Cohort Study of Community Belonging and Its Influence on Premature Mortality"
 authors:
   - Camilla Michalski
   - Mack Hurst
