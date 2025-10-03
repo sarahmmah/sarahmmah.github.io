@@ -22,7 +22,7 @@ publication_types: ["article-journal"]
 publication: "*Canadian Journal of Diabetes, 48*(8): 539–543"
 publication_short: "Can J Diabetes"
 
-abstract: "Gestational diabetes mellitus (GDM) is a common pregnancy complication. Studies have shown that the prevalence of GDM is rising worldwide. In this study, we aimed to describe the prevalence of GDM in Ontario, Canada, between 2015 and 2021. ␣␣ *This is an excerpt. To read more, use the links above*"
+abstract: "Gestational diabetes mellitus (GDM) is a common pregnancy complication. Studies have shown that the prevalence of GDM is rising worldwide. In this study, we aimed to describe the prevalence of GDM in Ontario, Canada, between 2015 and 2021. *(This is an excerpt. To read more, please visit the links above.)*"
 summary: "Gestational diabetes mellitus (GDM) is a common pregnancy complication. Studies have shown that the prevalence of GDM is rising worldwide. In this study, we aimed to describe the prevalence of GDM in Ontario, Canada, between 2015 and 2021."
 
 tags:
