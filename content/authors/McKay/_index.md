@@ -25,11 +25,15 @@ organizations:
 bio: ''
 
 interests:
-  - Housing and health
+  - Built environments
+  - Social determinants of health
+  - Environmental health
+  - Social capital
+  - Housing
 
 education:
   courses:
-    - course: BA Environmental Science & Geography
+    - course: BA Geography & Environmental Sciences
       institution: UVM
       year: 2027 (expected)
 
@@ -55,4 +59,4 @@ user_groups:
   
 ---
 
-Coming soon!
+Ainsley is an undergraduate Geography and Environmental Studies double major with a Geospatial Technologies minor from Richmond, Virginia. She is interested in the connection between the built environment and health, particularly urban health disparities and environmental justice. Her honors thesis project investigates the impact of local access to resources on housing outcomes and wellbeing in Chittenden County, partnering with Pathway Vermont’s Housing First program. Outside of academics, she is a trip leader for the UVM Outing Club, and enjoys backpacking, snowboarding, and crafting.
