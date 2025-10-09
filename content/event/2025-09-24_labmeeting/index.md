@@ -1,23 +1,23 @@
 ---
-title: Dr. Richard Sadler - Tuesday, November 11th, 2025
+title: Lab meeting: Erin Troiano
 
-event: Seminar at UVM
-event_url: https://example.org
+event: Lab meeting
+event_url: ''
 
 location: University of Vermont
-address:
-  street: TBD
+address: Old Mill
+  street: ''
   city: Burlington
   region: VT
   postcode: '05405'
   country: United States
 
-summary: Join us for a seminar delivered by Dr. Richard Sadler.
-abstract: Coming Soon!
+summary: Erin presents her work on health care deserts - a collaboration with the Main Rural Health Research Center.
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-11-11T10:00:00Z'
+date: '2025-09-24T12:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -25,10 +25,10 @@ all_day: false
 publishDate: '2025-09-15T00:00:00Z'
 
 authors: []
-tags: []
+tags: [internal]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -51,13 +51,5 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
----
+projects = []`
 
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
