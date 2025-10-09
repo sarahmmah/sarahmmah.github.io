@@ -1,5 +1,5 @@
 ---
-title: Lab meeting: Erin Troiano
+title: Lab meeting - Erin Troiano
 
 event: Lab meeting
 event_url: ''
