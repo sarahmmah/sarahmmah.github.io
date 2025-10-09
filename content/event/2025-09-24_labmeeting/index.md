@@ -5,7 +5,8 @@ event: Lab meeting
 event_url: ''
 
 location: University of Vermont
-address: Old Mill
+address:
+  name: Old Mill
   street: ''
   city: Burlington
   region: VT
