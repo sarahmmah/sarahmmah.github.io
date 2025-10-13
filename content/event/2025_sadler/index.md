@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: Join us for a seminar delivered by Dr. Richard Sadler.
-abstract: Coming Soon!
+abstract: 'The Flint Water Crisis was the result of decades of deliberate disinvestment and state government ineptitude. In this talk, Dr. Sadler will discuss how the crisis unfolded, and how his research-examining environmental exposures, neighborhood conditions, and blood lead levels-revealed its scale. He will also address what has changed in Flint since then, including the massive new investments in the city that have brought hope in the wake of catastrophe.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
