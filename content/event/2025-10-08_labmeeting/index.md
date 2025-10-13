@@ -1,24 +1,24 @@
 ---
-title: Lab meeting - Erin Troiano
+title: Lab meeting - Olivia Seiler
 
 event: Lab meeting
 event_url: ''
 
 location: University of Vermont
 address:
-  name: Old Mill
+  name: Old Mill Building
   street: ''
   city: Burlington
   region: VT
   postcode: '05405'
   country: United States
 
-summary: Erin presents her work on health care deserts - a collaboration with the Main Rural Health Research Center.
+summary: Olivia presents her progress on a systematic review of SNAP and health in the US.
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-09-24T12:00:00Z'
+date: '2025-10-08T12:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
