@@ -4,9 +4,9 @@ title: Dr. Richard Sadler - Tuesday, November 11th, 2025
 event: Seminar at UVM
 event_url: https://example.org
 
-location: University of Vermont
+location: University of Vermont (Contact Prof. Mah for address)
 address:
-  street: TBD
+  street: ''
   city: Burlington
   region: VT
   postcode: '05405'
