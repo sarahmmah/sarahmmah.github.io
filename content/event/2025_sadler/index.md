@@ -2,11 +2,11 @@
 title: Dr. Richard Sadler - Tuesday, November 11th, 2025
 
 event: Seminar at UVM
-event_url: https://example.org
+event_url: https://events.uvm.edu/
 
-location: University of Vermont (Contact Prof. Mah for address)
+location: Old Mill Building, University of Vermont
 address:
-  street: ''
+  street: 94 University Place
   city: Burlington
   region: VT
   postcode: '05405'
