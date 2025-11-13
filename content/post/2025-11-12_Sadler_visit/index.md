@@ -7,11 +7,12 @@ image:
 
 ---
 
-Dick Sadler delivered an invited guest lecture yesterday, November 11th.
+Dick Sadler delivered a wonderful guest lecture this week!
 
-{{< figure src="sadler_2025_talk.jpg" title="Dr. Sadler in the John Dewey Lounge." >}}
 
 <!--more-->
 
 It was great to have Dick visit our Health Geography class (GEOG 2782) and meet with interested students and faculty.
+
+{{< figure src="sadler_2025_talk.jpg" title="Dr. Sadler in the John Dewey Lounge." >}}
 
