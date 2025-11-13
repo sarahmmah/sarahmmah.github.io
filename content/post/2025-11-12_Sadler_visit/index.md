@@ -2,7 +2,9 @@
 title: Dr. Sadler's visit to UVM
 date: 2025-11-11
 image:
-  focal_point: 'top'
+  placement: 2
+  focal_point: "top"
+  preview_only: true
 ---
 
 Dick Sadler delivered an invited guest lecture yesterday, November 11th.
