@@ -9,7 +9,7 @@ image:
 
 Dick Sadler delivered an invited guest lecture yesterday, November 11th.
 
-{{< figure src="sadler_2025-11-11.jpg" title="Dr. Sadler in the John Dewey Lounge." >}}
+{{< figure src="sadler_2025_talk.jpg" title="Dr. Sadler in the John Dewey Lounge." >}}
 
 <!--more-->
 
