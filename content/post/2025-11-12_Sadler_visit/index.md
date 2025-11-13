@@ -7,6 +7,7 @@ image:
 
 Dick Sadler delivered an invited guest lecture yesterday, November 11th.
 
+{{< figure src="sadler_2025-11-11.jpg" title="Dr. Sadler with members of our health geography research group" >}}
 
 <!--more-->
 
