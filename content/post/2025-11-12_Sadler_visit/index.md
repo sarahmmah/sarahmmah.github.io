@@ -2,14 +2,14 @@
 title: Dr. Sadler's visit to UVM
 date: 2025-11-11
 image:
-  placement: 2
   focal_point: "top"
-  preview_only: true
+  caption: "Dr. Sadler with members of our Health Geography Research Group at UVM."
+
 ---
 
 Dick Sadler delivered an invited guest lecture yesterday, November 11th.
 
-{{< figure src="sadler_2025-11-11.jpg" title="Dr. Sadler with members of our health geography research group" >}}
+{{< figure src="sadler_2025-11-11.jpg" title="Dr. Sadler in the John Dewey Lounge." >}}
 
 <!--more-->
 
