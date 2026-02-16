@@ -6,15 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: 
+  theme_day: my_theme
+  theme_night: my_theme
   font: native
   font_size: L
-
-params:
-  design:
-    primary: "#00693E"    # UVM green example
-    secondary: "#FFD100"  # accent color
 
 # SEO
 

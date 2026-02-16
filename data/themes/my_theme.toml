@@ -1,0 +1,20 @@
+# Theme metadata
+name = "My Theme"
+
+[light]
+  # Primary
+  primary = "#00693E"
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#34495e"
+  menu_text_active = "#00693E"
+  menu_title = "#2b2b2b"
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  # Primary
+  primary = "#2E8B57"
+  link = "#2E8B57"
+  link_hover = "#3CB371"
