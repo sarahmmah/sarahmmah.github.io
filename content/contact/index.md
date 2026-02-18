@@ -9,8 +9,9 @@ sections:
     content:
       title: Contact
       text: 
-        I welcome inquiries from students, collaborators, and community partners interested health, neighborhoods, and population research. You can reach me by filling out this form or by email.
+        I welcome inquiries from students, collaborators, and community partners interested in environmental health, neighborhoods, and population health research. You can reach me by email or book an appointment.
       email: sarah.mah@uvm.edu
+      appointment_url: 'https://outlook.office365.com/bookwithme/user/940ecdba4b7742fc9d1ee9eaba111a05@uvm.edu?anonymous&ep=plink'
       phone: 
       address:
         street: 94 University Place
@@ -24,9 +25,10 @@ sections:
         longitude: '-73.19866'
       directions: 
       office_hours:
-        - 'Tuesdays 13:00 to 14:30'
-        - 'Thursdays 13:00 to 14:30'
-      appointment_url: 'https://outlook.office365.com/bookwithme/user/940ecdba4b7742fc9d1ee9eaba111a05@uvm.edu?anonymous&ep=plink'
+        -  '**Spring 2026 Office Hours**'
+        - 'Mondays 13:00 to 14:30'
+        - 'Wednesdays 13:00 to 14:30'
+
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -37,15 +39,15 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#        netlify:
+#          # Enable CAPTCHA challenge to reduce spam?
+#          captcha: false
+#    design:
+#      columns: '1'
 
   - block: markdown
     content:
