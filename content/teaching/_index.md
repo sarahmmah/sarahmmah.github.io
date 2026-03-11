@@ -10,6 +10,6 @@ This course explores the relationship between geography and health. We begin wit
 
 This course examines how urban environments shape population health, highlighting cities as both resources for well-being and contributors to health risks. Through perspectives from geography, public health, epidemiology, sustainability, and urban planning, we explore how cities have developed in ways that impact health, touching on historical patterns like industrialization, segregation, and urban sprawl that create diverse and often unhealthy landscapes. Through the interdisciplinary lens of health geography, students will investigate health trends and disparities in cities and learn about how policies and interventions influence whether cities support health or pose risks.
 
-**GEOG 2990 — Quantiative Methods in Human Geography** (Spring 2026)
+**GEOG 2990 — Quantitative Methods in Human Geography** (Spring 2026)
 
 From census and geospatial datasets to surveys of social factors and health, numbers offer powerful ways to understand how people and places are connected, but they never speak for themselves. This course introduces students to the data and statistical tools geographers use to describe, test, and explain spatial and social relationships. We will explore how quantitative evidence reveals patterns and inequalities in neighborhood exposures, urban density, and access to resources; how it helps test ideas about migration or neighborhood change; and how it can both illuminate and obscure relationships between humans and their environments.
