@@ -13,6 +13,16 @@ sections:
         filename: lab_2025.jpg
       text: |
         Welcome! I'm Sarah, and I lead a health geography research group in the department of Geography and Geosciences at the **University of Vermont**. Our work integrates geospatial data, population health data, and epidemiologic approaches to investigate how neighborhoods, social and built environments influence health outcomes.
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
+
   
   - block: collection
     content:
