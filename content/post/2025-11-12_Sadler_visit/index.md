@@ -1,6 +1,7 @@
 ---
 title: Dr. Sadler's visit to UVM
 date: 2025-11-11
+profile: false
 image:
   focal_point: "top"
   caption: "Dr. Sadler with members of our Health Geography Research Group at UVM."

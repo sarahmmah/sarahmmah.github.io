@@ -1,6 +1,7 @@
 ---
 title: New publication with the Population Health Analytics Laboratory in Canada!
 date: 2025-09-05
+profile: false
 image:
   focal_point: 'top'
 ---

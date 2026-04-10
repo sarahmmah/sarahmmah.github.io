@@ -1,6 +1,7 @@
 ---
 title: Dr. Richard Sadler to speak at UVM - November 11th, 2025
 date: 2025-09-05
+profile: false
 image:
   focal_point: 'top'
 ---
