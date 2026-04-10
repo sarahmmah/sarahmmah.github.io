@@ -1,6 +1,7 @@
 ---
 title: A busy summer at SER and CSEB in 2025
 date: 2025-08-15
+profile: false
 ---
 
 Society for Epidemiologic Research in Boston (June 10-13th, 2025) and the Canadian Society for Epidemiology and Biostatistics in Montreal (August 11-13th, 2025)
