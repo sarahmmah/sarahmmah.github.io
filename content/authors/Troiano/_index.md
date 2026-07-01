@@ -31,7 +31,7 @@ education:
   courses:
     - course: BA Geography and Health & Society
       institution: UVM
-      year: 2026 (expected)
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -51,7 +51,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Researchers
+  - Alumni
   
 ---
 

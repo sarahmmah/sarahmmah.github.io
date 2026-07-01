@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: Honors Thesis Student
 
 # Organizations/Affiliations
 organizations:
