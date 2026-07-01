@@ -53,7 +53,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Researchers
+  - Alumni
 ---
 
 Olivia is an undergraduate Health and Society student with Statistics and Chemistry minors at UVM, born and raised in Denver, Colorado. She is interested in human and population health, infectious diseases, environmental justice, statistics, and public policy, especially federal food policy, which led her to the public health path. After graduate school, she hopes to join a public health agency to address threats to the health of communities, especially food access and the increasing threat of climate change. Outside of school, she enjoys spending time with her friends, reading, cooking, hiking, watching IndyCar, and performing and competing with the UVM Celtic Cats. She also spent a semester abroad in Auckland, New Zealand and loves traveling when she gets the chance.
