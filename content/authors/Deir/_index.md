@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Chandler Abernathy
+title: Caroline Deir
 
 # Full name (for SEO)
-first_name: Chandler
-last_name: Abernathy
+first_name: Caroline
+last_name: Deir
 
 # Username (this should match the folder name)
 authors:
-  - Abernathy
+  - Deir
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,11 +25,11 @@ organizations:
 bio: ''
 
 interests:
-  - Administrative health data
+  - Biostatistics
 
 education:
   courses:
-    - course: BA Health and Society
+    - course: BS Biological Sciences
       institution: ''
       year: 2027 (expected)
 
@@ -55,4 +55,4 @@ user_groups:
   
 ---
 
-Chandler Abernathy is a Junior at the University of Vermont majoring in Health and Society on the pre-med track. In partnership with fellow undergraduate research assistants and Professor Sarah Mah, she is exploring connections between health data gathered in the Vermont Health Care Uniform Reporting and Evaluation System and possible environmental factors affecting areas of Vermont. She is inspired by how analysis of large data sets can lead investigators to an understanding of how people can live healthy lives, something she hopes to continue doing in her career. 
+Caroline is an undergraduate Biological Sciences major on the pre-medical track with a minor in Wildlife Biology. She recently returned from a semester abroad where she studied in Cape Town, South Africa and Copenhagen, Denmark before volunteering on an organic farm in Switzerland. This summer, Caroline is assisting in researching population-based longitudinal health cohorts in the U.S. and U.K. to identify and investigate links between environmental factors and chronic disease. After graduation, she hopes to serve in the Peace Corps before attending graduate school for biostatistics or field biology.
