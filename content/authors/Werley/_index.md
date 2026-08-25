@@ -29,7 +29,7 @@ interests:
   - Data analysis and visualization
   - Statistical coding (R, Python, SAS, SQL)
   - Biostatistics and epidemiology
-  - Neuroscienec
+  - Neuroscience
 
 
 education:
