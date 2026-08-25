@@ -25,9 +25,9 @@ sections:
         longitude: '-73.19866'
       directions: 
       office_hours:
-        -  '**Spring 2026 Office Hours**'
-        - 'Mondays 13:00 to 14:30'
-        - 'Wednesdays 13:00 to 14:30'
+        -  '**Fall 2026 Office Hours**'
+        - 'Mondays 9:00 to 10:30'
+        - 'Wednesdays 9:00 to 10:30'
 
       #contact_links:
       #  - icon: comments
