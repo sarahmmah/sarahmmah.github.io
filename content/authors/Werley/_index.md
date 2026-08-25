@@ -60,4 +60,4 @@ user_groups:
   
 ---
 
-Alexis Werley is a senior undergraduate student studying Statistics with a minor in Neuroscience at the University of Vermont. She is currently working as a research assistant for Dr. Sarah to locate and consider relevant algorithms and protocols for analyzing residential mobility data, such as the ALGAE protocol. She also works with the Justice Research Center as a Summer Scholar helping to improve correctional facilities and re-entry programs across the state. 
+Alexis Werley is a senior undergraduate student studying Statistics with a minor in Neuroscience at the University of Vermont. She is currently working as a research assistant for Dr. Mah to locate and consider relevant algorithms and protocols for analyzing residential mobility data. She also works with the Justice Research Center as a Summer Scholar helping to improve correctional facilities and re-entry programs across the state. 
